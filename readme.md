@@ -61,6 +61,15 @@ cp file.txt destination
 - **Description:** Move/rename files and directories
 - **Usage:**
 ``` bash
+mv file.txt newname.txt
+mv file.txt directory
+ ```
+
+## Linux Command 8: `touch`
+
+- **Description:** Create an empty file or update file timestamps
+- **Usage:**
+``` bash
 touch file.txt
  ```
 
