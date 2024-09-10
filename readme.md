@@ -116,3 +116,13 @@ git add [file]
 git diff
  ```
 
+## Git  Command 4: `branch`
+
+- **Description:** list your branches. a * will appear next to the currently active branch
+- **Usage:**
+``` bash
+git branch
+ ```
+
+
+
