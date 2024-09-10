@@ -14,11 +14,9 @@ ls
 ## Linux Command 2: cd
 
 - **Description:** Change directory
-- **Options:**
-  * cd /path/to/directory
 - **Usage:**
 ``` bash
-ls
+cd/path/to/directory
  ```
 
 
