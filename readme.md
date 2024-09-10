@@ -92,3 +92,11 @@ head file.txt
 head -n (number) file.txt
  ```
 
+## Git  Command 1: `status`
+
+- **Description:** show modified files in working directory, staged for your next commit
+- **Usage:**
+``` bash
+git status 
+ ```
+
