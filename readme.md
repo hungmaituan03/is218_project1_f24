@@ -81,3 +81,14 @@ touch file.txt
 cat file.txt
  ```
 
+## Linux Command 10: `head`
+
+- **Description:** Display the first few lines of a file 
+- **Options:**
+  * -n: specify the numbers of lines to display
+- **Usage:**
+``` bash
+head file.txt
+head -n (number) file.txt
+ ```
+
