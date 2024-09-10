@@ -11,7 +11,7 @@
 ls
  ```
 
-## Linux Command 2: cd
+## Linux Command 2: 'cd'
 
 - **Description:** Change directory
 - **Usage:**
@@ -33,5 +33,16 @@ pwd
 - **Usage:**
 ``` bash
 mkdir my_directory
+ ```
+
+## Linux Command 5: 'rm'
+
+- **Description:** Remove files and directories 
+- **Options:**
+  * -r: Remove directory recursively
+  * -f: force removal wihout confirmation
+- **Usage:**
+``` bash
+rm -option removeDirectory
  ```
 
