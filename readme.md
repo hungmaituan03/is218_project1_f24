@@ -1,5 +1,5 @@
 # Linux and GIT Command Cheat Sheet 
-## Command 1: `ls`
+## Linux Command 1: `ls`
 
 - **Description:** List files and directories.
 - **Options:**
@@ -10,3 +10,15 @@
 ``` bash 
 ls
  ```
+
+## Linux Command 2: cd
+
+- **Description:** Change directory
+- **Options:**
+  * cd /path/to/directory
+- **Usage:**
+``` bash
+ls
+ ```
+
+
