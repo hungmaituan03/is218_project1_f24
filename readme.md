@@ -19,4 +19,10 @@ ls
 cd/path/to/directory
  ```
 
+## Linux Command 3: `pwd`
 
+- **Description:** Print current working directory 
+- **Usage:**
+``` bash
+pwd 
+ ```
