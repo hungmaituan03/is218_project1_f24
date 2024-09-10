@@ -56,3 +56,11 @@ rm -option removeDirectory
 cp file.txt destination
  ```
 
+## Linux Command 7: `mv`
+
+- **Description:** Move/rename files and directories
+- **Usage:**
+``` bash
+touch file.txt
+ ```
+
