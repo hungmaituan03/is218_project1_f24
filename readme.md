@@ -100,3 +100,11 @@ head -n (number) file.txt
 git status 
  ```
 
+## Git  Command 1: `status`
+
+- **Description:** add a file as it looks now to your next commit
+- **Usage:**
+``` bash
+git add [file]
+ ```
+
