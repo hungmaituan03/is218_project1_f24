@@ -11,7 +11,7 @@
 ls
  ```
 
-## Linux Command 2: 'cd'
+## Linux Command 2: `cd`
 
 - **Description:** Change directory
 - **Usage:**
@@ -44,5 +44,15 @@ mkdir my_directory
 - **Usage:**
 ``` bash
 rm -option removeDirectory
+ ```
+
+## Linux Command 6: `cp`
+
+- **Description:** Copy files and directories
+- **Options:**
+  * -r: Copy directories recursively 
+- **Usage:**
+``` bash
+cp file.txt destination
  ```
 
