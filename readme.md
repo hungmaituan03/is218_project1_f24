@@ -26,3 +26,12 @@ cd/path/to/directory
 ``` bash
 pwd 
  ```
+
+## Linux Command 4: `mkdir`
+
+- **Description:** Create a new directory 
+- **Usage:**
+``` bash
+mkdir my_directory
+ ```
+
