@@ -125,4 +125,11 @@ git branch
  ```
 
 
+## Git  Command 5: `checkout`
+
+- **Description:** switch to another branch and check it out into your working directory
+- **Usage:**
+``` bash
+git checkout 
+ ```
 
